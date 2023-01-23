@@ -1,5 +1,3 @@
-## v1.5
-- Test 2
 ## Pickle Frontiers V1.4 - Pre Release Update Server Test
 - Super Professor Pickle now uses Super Sonic's Shader
 
