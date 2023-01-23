@@ -1,3 +1,6 @@
+## Pickle Frontiers V1.4.1.1
+- Fixed Update Server Hopefully 2
+
 ## Pickle Frontiers V1.4.1
 - Fixed Update Server Hopefully
 
