@@ -1,3 +1,6 @@
+## Pickle Frontiers V1.4 - Pre Release Update Server Test
+- Super Professor Pickle now uses Super Sonic's Shader
+
 ## Pickle Frontiers V1.4
 - Added Cyloop & Phantom Rush Aura
 - Added Custom Colors
@@ -5,4 +8,3 @@
 - Completely Re-did Weight painting on Professor Pickle & Super Pickle
 - "Better" PRM textures
 - Created an Update server
-- Test
