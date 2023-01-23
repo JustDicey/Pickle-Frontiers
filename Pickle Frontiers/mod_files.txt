@@ -1,6 +1,2 @@
-add /raw/character/amy.pac
-add /raw/character/amy_orig.pac
-add /raw/character/sonic.pac
-add /raw/character/supersonic.pac
-add /raw/CommonObject.pac
+add /raw/test.txt
 add mod.ini
