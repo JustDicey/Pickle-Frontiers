@@ -1,11 +1,11 @@
 ## Pickle Frontiers v1.4.1
-- Lowered Total File Size by 10mb! Wooo
 - Fixed Transparency Issues on Professor Pickle's Hair
 - Fixed Transparency Issues on Eggman's Sandwich
 - Added Cyber Outline to Professor Pickle's Assistant
 - Added Normal Maps to Professor Pickle's Assistant
 - Lowered Noise Levels (shader) on Professor Pickle's Assistant
 - Added Professor Pickle over Cyber Sonic For Consistency (Effects Broken)
+- Lowered Total File Size by 10mb! Wooo
 
 ## Pickle Frontiers v1.4
 - Added Cyloop & Phantom Rush Aura
