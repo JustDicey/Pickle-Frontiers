@@ -1,4 +1,5 @@
 ## Pickle Frontiers v1.4.1
+- Lowered Total File Size by 10mb! Wooo
 - Fixed Transparency Issues on Professor Pickle's Hair
 - Fixed Transparency Issues on Eggman's Sandwich
 - Added Cyber Outline to Professor Pickle's Assistant
