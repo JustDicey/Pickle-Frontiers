@@ -1,3 +1,7 @@
+## Pickle Frontiers v1.4.2
+- Fixed the issue where Super Punches/Kicks were invisible
+- Added Sandwiches Over Super Punches/Kicks
+
 ## Pickle Frontiers v1.4.1
 - Fixed Transparency Issues on Professor Pickle's Hair
 - Fixed Transparency Issues on Eggman's Sandwich
