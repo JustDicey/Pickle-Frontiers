@@ -1,3 +1,6 @@
+## Pickle Frontiers v1.4.3
+- Fixed the Assistant's Cyber Ghost shader
+
 ## Pickle Frontiers v1.4.2
 - Fixed the issue where Super Punches/Kicks were invisible
 - Added Sandwiches Over Super Punches/Kicks
