@@ -1,7 +1,7 @@
 ## Pickle Frontiers v1.4.4
 - Fixed Compatibillity Issues With Update 1
 - Improved Weight Painting
-- Update Assistan Materials
+- Update The Assistant's Materials
 
 ## Pickle Frontiers v1.4.3
 - Fixed the Assistant's Cyber Ghost shader
