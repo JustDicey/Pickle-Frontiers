@@ -1,3 +1,9 @@
+## Pickle Frontiers v1.5
+- Update 2 Compatibility
+- Redid Material For Professor Pickle
+- New PRMS for Professor Pickle & Super Professor Pickle
+- Corrected NRMS for Professor and Assistant
+- Fixed Visible Seam
 ## Pickle Frontiers v1.4.4
 - Fixed Compatibillity Issues With Update 1
 - Improved Weight Painting
