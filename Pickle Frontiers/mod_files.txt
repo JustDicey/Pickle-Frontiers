@@ -1,7 +1,7 @@
-add raw/character/supersonic.pac
-add raw/character/amy_orig.pac
 add raw/character/amy.pac
 add raw/CommonObject.pac
 add raw/character/sonic.pac
 add mod.ini
 add raw/character/soniccyber.pac
+add raw/character/supersonic.pac
+add raw/character/amy_orig.pac
