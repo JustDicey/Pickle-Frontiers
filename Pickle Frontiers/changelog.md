@@ -1,3 +1,6 @@
+## Pickle Frontiers v1.5.1
+- Fixed Cyloop Aura
+- Fixed Missing Spindash Effects
 ## Pickle Frontiers v1.5
 - Update 2 Compatibility
 - Redid Material For Professor Pickle
