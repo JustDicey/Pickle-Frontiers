@@ -1,3 +1,6 @@
+## Pickle Frontiers v1.5.2
+- Base Update 3 Compatibility
+- I FORGOT TO PUSH THE UPDATE TO THE UPDATE SERVER LIKE 5 DAYS AGO IM SO SORRY ASHFGASDIHFGIASf
 ## Pickle Frontiers v1.5.1
 - Fixed Cyloop Aura
 - Fixed Missing Spindash Effects
